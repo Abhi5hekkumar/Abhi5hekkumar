@@ -5,6 +5,10 @@
 🤖 AI-curious. Code-driven.  
 🚀 Aspiring Software Engineer
 
+<p align="center">
+  <img src="./abhishek_simple_moving_github.gif" width="800">
+</p>
+
 ### About Me
 
 I'm passionate about software development, artificial intelligence,
