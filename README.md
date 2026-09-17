@@ -1,9 +1,9 @@
 # Hi, I'm Abhishek Kumar 👋
 
 
-💻 A passionate software developer  
-🤖 AI-curious. Code-driven.  
-🚀 Aspiring Software Engineer
+🤖 AI Enthusiast
+💻 Turning Ideas into Code
+💻 Code. Create. Innovate
 
 <p align="center">
   <img src="./abhishek_simple_moving_github.gif" width="800">
