@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek Kumar 👋
 
 
-💻 A passinate MERN Fullstack developer  
+💻 A passionate software developer  
 🤖 AI-curious. Code-driven.  
 🚀 Aspiring Software Engineer
 
