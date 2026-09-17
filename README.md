@@ -1,6 +1,7 @@
 # Hi, I'm Abhishek Kumar 👋
 
-💻 Final-Year Computer Science Engineering Student  
+
+💻 A passinate MERN Fullstack developer  
 🤖 AI-curious. Code-driven.  
 🚀 Aspiring Software Engineer
 
