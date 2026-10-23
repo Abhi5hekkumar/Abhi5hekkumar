@@ -1,13 +1,15 @@
 # Hi, I'm Abhishek Kumar 👋
 
+Computer Science student and AI/ML intern from Noida, India. 
+I build AI-powered apps and full-stack web applications.
 
-🤖 AI Enthusiast
-💻 Turning Ideas into Code
-💻 Code. Create. Innovate
+
 
 <p align="center">
   <img src="./abhishek_simple_moving_github.gif" width="800">
 </p>
+
+
 
 ### About Me
 
@@ -15,14 +17,12 @@ I'm passionate about software development, artificial intelligence,
 and emerging technologies. I enjoy learning by building projects
 and solving real-world problems.
 
-### Currently
+## What I work with
+- Languages: Python,C++
+- Web: React, Node.js, Express, MongoDB
+- AI: LLM apps, document Q&A (RAG), chatbots
+  
 
-- 🤖 Exploring AI and emerging technologies
-- 💻 Building software projects
-- 🌱 Improving my development and problem-solving skills
-- 🚀 Learning by building and experimenting
-- 
-- ### 📫 Connect with me
 - 
 - 📧 Email: kumarabhishek8749@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-94888b276/)
