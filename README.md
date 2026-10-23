@@ -22,8 +22,8 @@ and solving real-world problems.
 - Web: React, Node.js, Express, MongoDB
 - AI: LLM apps, document Q&A (RAG), chatbots
   
+## Contact
+- 📧 Email: [kumarabhishek8749@gmail.com](mailto:kumarabhishek8749@gmail.com)
+- 💼 LinkedIn: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-94888b276)
 
-- 
-- 📧 Email: kumarabhishek8749@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-94888b276/)
      
