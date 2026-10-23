@@ -18,7 +18,7 @@ and emerging technologies. I enjoy learning by building projects
 and solving real-world problems.
 
 ## What I work with
-- Languages: Python,C++
+- Languages: Python, JavaScript, c++
 - Web: React, Node.js, Express, MongoDB
 - AI: LLM apps, document Q&A (RAG), chatbots
   
