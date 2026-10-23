@@ -21,6 +21,12 @@ and solving real-world problems.
 - Languages: Python, JavaScript, c++
 - Web: React, Node.js, Express, MongoDB
 - AI: LLM apps, document Q&A (RAG), chatbots
+
+
+  ## Featured projects
+   - [DocuMind](https://github.com/Abhi5hekkumar/documind): upload a PDF and ask questions about it
+   - [AI Student College Helpdesk](https://github.com/Abhi5hekkumar/AI-powered-student-college-helpdesk): chatbot for college queries
+
   
 ## Contact
 - 📧 Email: [kumarabhishek8749@gmail.com](mailto:kumarabhishek8749@gmail.com)
