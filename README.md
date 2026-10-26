@@ -24,8 +24,8 @@ and solving real-world problems.
 
 
   ## Featured projects
-   - [DocuMind](https://github.com/Abhi5hekkumar/documind): upload a PDF and ask questions about it
-   - [AI Student College Helpdesk](https://github.com/Abhi5hekkumar/AI-powered-student-college-helpdesk): chatbot for college queries
+   - [pagePilot](https://github.com/Abhi5hekkumar/documind): upload a PDF and ask questions about it
+   - [campusConnect](https://github.com/Abhi5hekkumar/AI-powered-student-college-helpdesk): chatbot for college queries
 
   
 ## Contact
