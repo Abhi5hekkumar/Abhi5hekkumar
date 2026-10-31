@@ -25,7 +25,7 @@ and solving real-world problems.
 
   ## Featured projects
    - [pagePilot](https://github.com/Abhi5hekkumar/documind): upload a PDF and ask questions about it
-   - [campusConnect](https://github.com/Abhi5hekkumar/AI-powered-student-college-helpdesk): chatbot for college queries
+   - [zombie server Hunter](https://github.com/Abhi5hekkumar/zombie-server-hunter):Prometheus-Powered Infrastructure Efficiency & energy optimisation
 
   
 ## Contact
